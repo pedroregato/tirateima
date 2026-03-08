@@ -241,4 +241,3 @@ if generate_btn:
 
     # Store last result in session for reference
     st.session_state["last_process"] = process
-    
